@@ -25,9 +25,9 @@ variable "sg_names" {
 }
 
 variable "zone_id" {
-    default = "Z0948150OFPSYTNVYZOY"
+    default = "Z011939620HFSB9Q65KTW"
 }
 
 variable "domain_name" {
-    default = "daws86s.fun"
+    default = "priyankadevops.shop"
 }
